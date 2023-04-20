@@ -3,7 +3,7 @@ How to start this Rest API.
 
 I used the Eclipse environment  with quarkus.
 
-Execute ".\mvnw compile quarkus:dev" in eclipe terminal
+Execute ".\mvnw compile quarkus:dev" in eclipse terminal
 
 Go to "localhost:8080" and execute the programme
 
