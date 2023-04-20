@@ -1,11 +1,11 @@
 # LabSeq
 How to start this Rest API.
 
-I using the enviromment Eclipse with quarkus.
+I used the Eclipse environment  with quarkus.
 
 Execute ".\mvnw compile quarkus:dev" in eclipe terminal
 
-Go to "localhost:8080" and execute this program
+Go to "localhost:8080" and execute the programme
 
-Access to "localhost:8080/q/swagger-ui"  for  test in swagger
-Just put in "n" your value and the aplication da o output com a sequencia 
+Access to "localhost:8080/q/swagger-ui"  to  test in swagger
+Just put on "n" the pretended value and the application will give the output with the sequence.
