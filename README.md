@@ -1,4 +1,4 @@
-# LesSeq
+# LabSeq
 How to start this Rest API.
 
 I using the enviromment Eclipse with quarkus.
