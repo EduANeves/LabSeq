@@ -1,0 +1,24 @@
+---
+openapi: 3.0.3
+info:
+  title: labseq-program-quarkus API
+  version: 1.0.0-SNAPSHOT
+paths:
+  /labseq/{n}:
+    get:
+      tags:
+      - Greeting Resource
+      parameters:
+      - name: "n"
+        in: path
+        required: true
+        schema:
+          format: int64
+          type: integer
+      responses:
+        "200":
+          description: OK
+          content:
+            text/plain:
+              schema:
+                type: string
